@@ -1,0 +1,23 @@
+{
+    "Gmail": {
+        "grid_zone": [
+            "A2",
+            "C3"
+        ],
+        "ref_image": "Gmail.png"
+    },
+    "Drive": {
+        "grid_zone": [
+            "D4", 
+            "F5"
+        ],
+        "ref_image": "Drive.png"
+    },
+    "ChromeCustomize": {
+        "grid_zone": [
+            "K8",
+            "L8"
+        ],
+        "ref_image": null
+    }
+}

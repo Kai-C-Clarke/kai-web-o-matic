@@ -1,0 +1,14 @@
+{
+  "intent": "Precision click on Gmail",
+  "target": "Gmail",
+  "coordinates": {
+    "center_x": 50,
+    "center_y": 162
+  },
+  "confidence": 1.0,
+  "zone": [
+    "A2",
+    "C3"
+  ],
+  "timestamp": "2025-06-30T00:15:21.085185"
+}
